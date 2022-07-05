@@ -11,11 +11,11 @@ public class Test1 {
 		Assert.assertTrue(true);
 	}
 	
-	@Test(priority=2)
-	public void test_logout() {
+// 	@Test(priority=2)
+// 	public void test_logout() {
 		
-		System.out.println("Logout Test Passed....");
-		Assert.assertTrue(true);
+// 		System.out.println("Logout Test Passed....");
+// 		Assert.assertTrue(true);
 	}
 
 }
