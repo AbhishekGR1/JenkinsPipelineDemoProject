@@ -15,7 +15,7 @@ public class Test1 {
 	public void test_logout() {
 		
 		System.out.println("Logout Test Passed....");
-		//Assert.assertTrue(true);
+		Assert.assertTrue(true);
 	}
 
 }
